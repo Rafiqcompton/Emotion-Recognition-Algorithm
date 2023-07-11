@@ -1,0 +1,5 @@
+Pre-trained models for face detection and emotion recognition are required.
+For video input, use a webcam or recorded video. For audio input, use a microphone or pre-recorded audio.
+Process frames or audio segments to detect faces and perform emotion recognition.
+Display the detected emotions on the frame or audio segment.
+Adjust the code according to the specific requirements of the application.
